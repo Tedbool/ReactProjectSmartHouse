@@ -1,0 +1,68 @@
+.productBtn{
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    border-radius: 4px;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.8s;
+    border: 2px solid black;
+    cursor: pointer;
+}
+.productBtn:hover{
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+}
+.roomInfo{
+    width: 50%;
+    text-align: left;
+    margin-left: 30px;
+}
+#topDiv{
+    display: flex;
+    flex-direction: row;
+}
+.productsBtnsDiv{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.selectProd{
+    margin: 10px;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+}
+#btnAddProd{
+    background-color: cadetblue;
+    transition-duration: 0.6s;
+    font-size: 16px;
+    width: 200px;
+    margin-right: 150px;
+}
+#btnAddProd:hover{
+    background-color: rgb(52, 238, 245);
+    font-size: 18px;
+}
+#botDiv{
+    display: flex;
+    justify-content: flex-end;
+}
+#chooseProd{
+    display: flex;
+    position: relative;
+    margin-left: auto;
+    margin-right: -230px;
+}
+#returnBtn{
+    margin-top: 10px;
+    background-color: cadetblue;
+    transition-duration: 0.6s;
+    font-size: 16px;
+    width: 200px;
+}
+#returnBtn:hover{
+    background-color: rgb(52, 238, 245);
+    font-size: 18px;
+}

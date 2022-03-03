@@ -1,0 +1,26 @@
+input{
+    width: 200px;
+    height: 25px;
+    margin-bottom: 5px; 
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+#selectRoom{
+    margin-bottom: 5px;
+    width: 200px;
+    text-align: center;
+    font-weight: bold;
+}
+option{
+    font-weight: bold;
+}
+button{
+    background-color: cadetblue;
+    transition-duration: 0.6s;
+    font-size: 16px;
+}
+button:hover{
+    background-color: rgb(52, 238, 245);
+    font-size: 18px;
+}
