@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactProjectSmartHouse/static/css/main.af44e9fa.css",
+    "main.js": "/ReactProjectSmartHouse/static/js/main.e4ca6935.js",
+    "static/js/787.ec704a7a.chunk.js": "/ReactProjectSmartHouse/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/ReactProjectSmartHouse/index.html",
+    "main.af44e9fa.css.map": "/ReactProjectSmartHouse/static/css/main.af44e9fa.css.map",
+    "main.e4ca6935.js.map": "/ReactProjectSmartHouse/static/js/main.e4ca6935.js.map",
+    "787.ec704a7a.chunk.js.map": "/ReactProjectSmartHouse/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af44e9fa.css",
+    "static/js/main.e4ca6935.js"
+  ]
+}
